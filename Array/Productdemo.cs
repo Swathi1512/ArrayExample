@@ -10,6 +10,8 @@ namespace Array
     {
         static void Main()
         {
+            //Product class explanation
+
             object ProductId;
             object ProductName;
             object Price;
