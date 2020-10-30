@@ -10,6 +10,8 @@ namespace Array
     {
         static void main(string[] args)
         {
+            //It is used to initialize an array and get the values
+
             string[] arr = new string[5];
             Console.WriteLine("Enter the city names: ");
             for(int i=0;i<arr.Length;i++)
